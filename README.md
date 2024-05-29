@@ -8,9 +8,8 @@
 	- папка backgrounds - содержит набор из 3333 фонов разного цвета для объединения классов, сгенерированых с помощью нейронной сети;
 	- папка images, в которую записываются изображения по классам. Пример сгенерированного, стилизованного и размеченного изображения для класса "яблоко":
 
-		<img src="application/images/apple/original/image0.png" width="100" height="100"> <img src="application/images/apple/stylized/image0.png" width="100" height="100">
-		<img src="application/images/apple/_kmeans/image0.png" width="100" height="100">
-		<img src="application/images/apple/_box_kmeans/image0.png" width="100" height="100">
+		<img src="application/images/apple/original/image0.png" width="150" height="150"> <img src="application/images/apple/stylized/image0.png" width="150" height="150">
+		<img src="application/images/apple/_kmeans/image0.png" width="150" height="150"> <img src="application/images/apple/_box_kmeans/image0.png" width="150" height="150">
   
   	- папка flowers - содержит набор изображений размеченных в ручную (применяется в эксперименте 4);
    	- папка join_classes - содержит набор с 3 объединёнными классами, созданный с помощью ПО (применяется в эксперименте 4);
