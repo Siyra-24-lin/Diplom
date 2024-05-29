@@ -11,7 +11,7 @@
 		<img src="application/images/apple/original/image0.png" width="150" height="150"> <img src="application/images/apple/stylized/image0.png" width="150" height="150">
 		<img src="application/images/apple/_kmeans/image0.png" width="150" height="150"> <img src="application/images/apple/_box_kmeans/image0.png" width="150" height="150">
   
-  	- папка flowers - содержит набор изображений размеченных в ручную (применяется в эксперименте 4);
+  	- папка flowers - содержит набор изображений, размеченных в ручную (применяется в эксперименте 4);
    	- папка join_classes - содержит набор с 3 объединёнными классами, созданный с помощью ПО (применяется в эксперименте 4);
    	- папка backs - содержит набор фонов, который применялся для объединения классов в join_classes.
 2) Папку tests, в которой находятся файлы c тестирования модели **DeepLabv3+** на выборках, созданных с помощью ПО.
