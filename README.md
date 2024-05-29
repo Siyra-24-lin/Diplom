@@ -7,9 +7,10 @@
 	- папка sources - содержит 10 изображений для стилизации и базовые фоны для объединения классов (белый и чёрный);
 	- папка backgrounds - содержит набор из 3333 фонов разного цвета для объединения классов, сгенерированых с помощью нейронной сети;
 	- папка images, в которую записываются изображения по классам, например:
-
-
-
+<img src="application/images/apple/original/image0.png" width="200" height="200">
+<img src="application/images/apple/stylized/image0.png" width="200" height="200">
+<img src="application/images/apple/_kmeans/image0.png" width="200" height="200">
+<img src="application/images/apple/_box_kmeans/image0.png" width="200" height="200">
 
 Интерфейс программного обеспечения:
 ![image](https://github.com/Siyra-24-lin/Diplom/assets/91084294/c2539a08-47f3-4f8a-ac47-d172f98b027b)
