@@ -23,4 +23,5 @@
 4) объединения классов;
 5) сохранения выборки.
    
-![image](https://github.com/Siyra-24-lin/Diplom/assets/91084294/c2539a08-47f3-4f8a-ac47-d172f98b027b)
+![image](https://github.com/Siyra-24-lin/Diplom/assets/91084294/b2234da3-f743-429b-a32b-23f8625231e5)
+
