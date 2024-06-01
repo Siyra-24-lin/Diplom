@@ -25,5 +25,4 @@
    
 ![image](https://github.com/Siyra-24-lin/Diplom/assets/91084294/1a28c14a-c4cd-4684-a23a-d90ecace2325)
 
-
-
+![схема](https://github.com/Siyra-24-lin/Diplom/assets/91084294/5c1ed6ea-c2aa-4ba5-a4a3-b31b9b0e751a)
